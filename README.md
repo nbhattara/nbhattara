@@ -12,3 +12,5 @@ A student who loves computers.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![c](https://img.shields.io/badge/c-3776AB?logo=c&logoColor=blue)
 ![html](https://img.shields.io/badge/html-3776AB?logo=html&logoColor=purple)
+![css](https://img.shields.io/badge/css-3776AB?logo=css&logoColor=blue&white)
+![c++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)
