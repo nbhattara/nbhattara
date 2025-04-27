@@ -9,9 +9,9 @@ A student who loves computers.
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/nbhattara/python-learning)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://your-repository-link)
-[![C](https://img.shields.io/badge/c-3776AB?logo=c&logoColor=blue)](https://your-repository-link)
-[![HTML](https://img.shields.io/badge/html-3776AB?logo=html&logoColor=purple)](https://your-repository-link)
-[![CSS](https://img.shields.io/badge/css-3776AB?logo=css&logoColor=blue&white)](https://your-repository-link)
-[![C++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)](https://your-repository-link)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/nbhattara/college)
+[![C](https://img.shields.io/badge/c-3776AB?logo=c&logoColor=blue)](https://github.com/nbhattara/student-college-management-and-symbol-no-generation-in-cpp)
+[![HTML](https://img.shields.io/badge/html-3776AB?logo=html&logoColor=purple)](https://github.com/nbhattara/college)
+[![CSS](https://img.shields.io/badge/css-3776AB?logo=css&logoColor=blue&white)](https://github.com/nbhattara/college)
+[![C++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)](https://github.com/nbhattara/student-college-management-and-symbol-no-generation-in-cpp)
 
