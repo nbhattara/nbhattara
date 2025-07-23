@@ -5,7 +5,7 @@ A student who loves computers.
 - some of my projects are available 
 
 ### Connect with me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattarainikesh926@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-undefined-574650364/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikesh.bhattarai.330) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nikesh.bhattarai.330)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattarainikesh926@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-undefined-574650364/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikesh.bhattarai.330) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nikesh.bhattarai.330)  [![website](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=website&logoColor=white)](https://nikesh-bhattarai.com.np) 
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/nbhattara/python-learning)
