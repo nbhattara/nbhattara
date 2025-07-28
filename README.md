@@ -16,8 +16,14 @@ A student who loves computers.
 [![C++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)](https://github.com/nbhattara/student-college-management-and-symbol-no-generation-in-cpp)
 
 ## 🌐 Live Website
-<a href="https://https://devverse-nine.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20DevVerse-Live%20Preview-brightgreen?style=for-the-badge" alt="DevVerse Live" />
-<a href="https://https://nikesh-bhattarai.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20portfolio-Live%20Preview-brightblue?style=for-the-badge" alt="portfolio" />
-</a>
+## 🔗 My Live Projects
+
+<p align="center">
+  <a href="https://devverse-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20DevVerse-Live%20Preview-blueviolet?style=for-the-badge" alt="DevVerse Live" />
+  </a>
+  &nbsp;
+  <a href="https://nikesh-bhattarai.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-orange?style=for-the-badge" alt="Nikesh Portfolio" />
+  </a>
+</p>
