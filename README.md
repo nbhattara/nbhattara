@@ -23,7 +23,7 @@ A student who loves computers.
     <img src="https://img.shields.io/badge/🚀%20DevVerse-Live%20Preview-blueviolet?style=for-the-badge" alt="DevVerse Live" />
   </a>
   &nbsp;
-  <a href="https://nikesh-bhattarai.com" target="_blank">
+  <a href="https://nikesh-bhattarai.com.np" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-orange?style=for-the-badge" alt="Nikesh Portfolio" />
   </a>
 </p>
