@@ -15,10 +15,9 @@ A student who loves computers.
 [![CSS](https://img.shields.io/badge/css-3776AB?logo=css&logoColor=blue&white)](https://github.com/nbhattara/college)
 [![C++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)](https://github.com/nbhattara/student-college-management-and-symbol-no-generation-in-cpp)
 
-## 🌐 Live Website
-## 🔗 My Live Projects
+## My Live Projects
 
-<p align="center">
+<p align="left">
   <a href="https://devverse-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20DevVerse-Live%20Preview-blueviolet?style=for-the-badge" alt="DevVerse Live" />
   </a>
