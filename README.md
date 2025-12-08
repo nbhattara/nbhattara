@@ -1,4 +1,4 @@
-# Hi, I'm NIKESH BHATTARAI
+# Hi, I'm Nikesh Bhattarai
 
 A student who loves computers.
 
