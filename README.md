@@ -15,6 +15,8 @@ A student who loves computers.
 [![CSS](https://img.shields.io/badge/css-3776AB?logo=css&logoColor=blue&white)](https://github.com/nbhattara/college)
 [![C++](https://img.shields.io/badge/c++-3776AB?logo=c++&logoColor=purple)](https://github.com/nbhattara/student-college-management-and-symbol-no-generation-in-cpp)
 [![PHP](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=brinjal)](https://github.com/nbhattara)
+[![node](https://img.shields.io/badge/node-3776AB?logo=node&logoColor=blue)](https://github.com/nbhattara)
+
 ## My Live Projects
 
 <p align="left">
