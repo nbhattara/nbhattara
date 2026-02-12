@@ -18,8 +18,8 @@ A student who loves computers.
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-orange?style=for-the-badge" alt="Nikesh Portfolio" />
   </a>
    &nbsp;
-  <a href="https://raktadan-vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🩸%20raktadan%20-red?style=for-the-badge" alt="Nikesh Portfolio" />
+  <a href="https://raktadan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🩸%20raktadan-view%20-red?style=for-the-badge" alt="Nikesh Portfolio" />
   </a>
   
 </p>
