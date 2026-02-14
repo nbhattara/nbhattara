@@ -21,6 +21,10 @@ A student who loves computers.
   <a href="https://raktadan.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🩸%20raktadan-view%20-red?style=for-the-badge" alt="Nikesh Portfolio" />
   </a>
+    &nbsp;
+  <a href="https://sun-smoky.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🪙%20goldcalculator-view%20-golden?style=for-the-badge" alt="Nikesh Portfolio" />
+  </a>
   
 </p>
 
