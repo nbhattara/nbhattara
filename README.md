@@ -30,6 +30,10 @@ A student who loves computers.
     <img src="https://img.shields.io/badge/🪙%20goldcalculator-view%20-golden?style=for-the-badge" alt="Nikesh Portfolio" />
   </a>
   
+   &nbsp;
+  <a href="https://nbhattara.github.io/footly/" target="_blank">
+    <img src="https://img.shields.io/badge/⚽%20goldcalculator-view%20-golden?style=for-the-badge" alt="footly" />
+  </a>
 </p>
 
 
